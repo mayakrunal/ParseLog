@@ -1,0 +1,4 @@
+ParseLog/bin/*
+ParseLog/obj/*
+ParseLog.Tests/bin/*
+ParseLog.Tests/obj/*
