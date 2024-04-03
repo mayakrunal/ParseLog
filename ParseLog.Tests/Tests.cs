@@ -1,6 +1,3 @@
-using System.Diagnostics;
-using ParseLog;
-using Xunit.Extensions;
 using Xunit.Extensions.Ordering;
 
 namespace ParseLog.Tests;
