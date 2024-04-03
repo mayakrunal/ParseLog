@@ -1,4 +1,4 @@
-# Simple .Net 8 Application to parse logs and view required information
+# .Net 8 Console Application to parse logs and view required information
 
 ## Task
 
